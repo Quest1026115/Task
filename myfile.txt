@@ -1,2 +1,4 @@
 welcome to git
+welcome to telusko
+i am learning git
 git is awesome
