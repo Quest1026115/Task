@@ -1,2 +1,3 @@
 welcome to git
-
+welcome to telusko
+i am learning git
